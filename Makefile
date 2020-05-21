@@ -13,4 +13,4 @@ clean:
 	rm *.o
 
 version:
-	python inc_version.py version.h
+	python3 inc_version.py version.h
